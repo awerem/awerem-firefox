@@ -1,0 +1,9 @@
+{
+  "name": "awerem-firefox",
+  "fullName": "AweRem for Firefox",
+  "id": "jid1-EDqJHvt3OM1UAw",
+  "description": "This add on allow the AweRem remote controller to control your firefox and the website you visit with it",
+  "author": "Paul Ecoffet<ecoffet.paul@gmail.com>",
+  "license": "GPL v2",
+  "version": "0.1"
+}
